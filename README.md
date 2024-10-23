@@ -9,7 +9,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcgratidao&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcgratidao&hide_progress=true)
 
 ---
 
