@@ -41,12 +41,8 @@
 
 
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-
-
-<img alt="django" src=https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </div>
 
-- HTML5, CSS e JavaScript
 - Git e GitHub
 - Automação de Processos
 - Excel e Planilhas Google com Scripts
