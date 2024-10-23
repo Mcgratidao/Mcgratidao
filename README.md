@@ -1,5 +1,6 @@
-# Ivo Leal dos Reis
+# Olá! Eu sou o Ivo Leal 👋
 
+[![]]
 - **Localização**: Brasília - DF, Brasil  
 - **E-mail**: lealivo31@gmail.com  
 - **LinkedIn**: [Ivo Leal dos Reis](https://www.linkedin.com/in/ivo-leal-dos-reis-3129311b2)  
