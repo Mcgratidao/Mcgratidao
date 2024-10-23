@@ -5,14 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com.br/ivo_leal_dos_reis)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009699573053&mibextid=ZbWKwL)
 [![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mcgratidao.github.io/Home/)
-
-
-[![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mcgratidao.github.io/Home/)
-
-- **Localização**: Brasília - DF, Brasil  
-- **E-mail**: lealivo31@gmail.com  
-- **LinkedIn**: [Ivo Leal dos Reis](https://www.linkedin.com/in/ivo-leal-dos-reis-3129311b2)  
-- **Portfólio**: [mcgratidao.github.io/Home](https://mcgratidao.github.io/Home/)
+[![Linkdink](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivo-leal-dos-reis-3129311b2)  
 
 ---
 
