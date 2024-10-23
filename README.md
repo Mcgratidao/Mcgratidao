@@ -1,6 +1,6 @@
 # Olá! Eu sou o Ivo Leal 👋
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maldito:lealivo31@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lealivo31@gmail.com)
 
 - **Localização**: Brasília - DF, Brasil  
 - **E-mail**: lealivo31@gmail.com  
