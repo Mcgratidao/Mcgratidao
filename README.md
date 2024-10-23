@@ -9,6 +9,10 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+---
+
 ✨ **Idade**: 21 anos  
 ✨ **Cargo**: Assistente Comercial  
 ✨ **Paixão por**: Tecnologia, Informação e Dados
