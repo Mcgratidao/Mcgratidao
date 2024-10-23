@@ -31,6 +31,8 @@
 ## 🏆 Habilidades
 
 ### 🎖️ Técnicas:
+<div styles"display: inline-block"><br/>
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 - HTML5, CSS e JavaScript
 - Git e GitHub
 - Automação de Processos
