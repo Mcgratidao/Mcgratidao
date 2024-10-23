@@ -53,10 +53,12 @@
 </div>
 
 ### 🎖️ Técnicas:
-- Automação de Processos
-- Planejamento de Processos e Funil de Vendas
-- Bootstrap e Canvas
+- Automação e planejamento de Processos
+- Funil de Vendas
+- Experiência comercial 
+- Experiência em vendas
 - Assistência em TI
+- Desenvolvimento web
 
 ### 🎖️ Interpessoais:
 - Comunicação eficaz
