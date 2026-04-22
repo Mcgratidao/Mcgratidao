@@ -1,4 +1,4 @@
-# Olá! Eu sou o Ivo Leal 👋
+# Olá! Eu sou o Ivo Leal 
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lealivo31@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561999519633?text=Olá%20🖐️😃%2C%20tenho%20interesse%20em%20fazer%20um%20projeto)
@@ -13,22 +13,19 @@
 
 ---
 
-✨ **Idade**: 21 anos  
-✨ **Cargo**: Assistente Comercial  
-✨ **Paixão por**: Tecnologia, Informação e Dados
+ **Idade**: 21 anos  
+ **Paixão por**: Tecnologia, Informação, Dev, Scripts e Dados
 
 ---
 
-## 🛠️ Minhas Skills e Forças
+## 🛠️ Minhas Skills
 
-- **Profissional de vendas**
-- **Conhecimentos Comerciais**
 - **Desenvolvimento Web**
 - **Automação de Processos e Sistemas**
-
+- **Sistema Operacional Linux**
 ---
 
-## 🏆 Habilidades
+##  Habilidades
 
 <div styles"display: inline-block"><br/>
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -52,24 +49,24 @@
 <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </div>
 
-### 🎖️ Técnicas:
+###  Técnicas:
 - Automação e planejamento de Processos
-- Funil de Vendas
 - Experiência comercial 
-- Experiência em vendas
 - Assistência em TI
 - Desenvolvimento web
 
-### 🎖️ Interpessoais:
-- Comunicação eficaz
-- Gestão de tempo
+###  Interpessoais:
+- Comunicação
 - Planejamento de projetos
+- Excel avançado
+- Google Sheets e scripts (GAS)
 
+  
 ---
 
-## 😸 Interesses Pessoais e Curiosidades
+##  Interesses Pessoais e Curiosidades
 
 - Músico, poeta e escritor nas horas vagas
 - Apaixonado por explorar novas tecnologias
 - Desenvolvo projetos de programação como hobby
-- Leitor ávido, sempre em busca de conhecimento e criatividade
+- Leitor em busca de conhecimento e criatividade
