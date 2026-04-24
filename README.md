@@ -13,7 +13,7 @@
 
 ---
 
- **Idade**: 21 anos  
+ **Idade**: 22 anos  
  **Paixão por**: Tecnologia, Informação, Dev, Scripts e Dados
 
 ---
